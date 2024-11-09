@@ -41,3 +41,4 @@ docker tag cloud_portfolio:0.1 deviyke/cloud_portfolio:0.1
 docker push deviyke/cloud_portfolio:0.1
 
 ```
+
